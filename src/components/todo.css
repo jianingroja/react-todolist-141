@@ -1,0 +1,46 @@
+.statu {
+  display: inline-block;
+  margin: 10px 15px;
+  color: pink;
+}
+
+p {
+  font-style: italic;
+}
+div {
+  text-align: left;
+}
+
+input {
+  margin: 5px;
+}
+#enter {
+  width: 350px;
+  height: 20px;
+}
+button {
+  background: pink;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  height: 20px;
+}
+
+#container {
+  text-align: left;
+  width: 450px;
+  height: 400px;
+  margin: 0 auto;
+}
+
+.Odd {
+  background: #f4ecec;
+}
+
+#ac4 {
+  width: 420px;
+}
+
+#footer {
+  text-align: center;
+}
